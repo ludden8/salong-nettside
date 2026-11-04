@@ -1,4 +1,4 @@
-# Nyroj Frisør — demo-nettside
+Frisør — demo-nettside
 
 Dette er en statisk nettside laget med HTML, CSS og JavaScript, klar for Cloudflare Pages.
 
